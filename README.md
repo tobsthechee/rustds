@@ -8,7 +8,11 @@
 ```
 Cracked or pirated versions of Rust are not supported in any way, shape or form. Please do not post issues regarding these.
 ```
-
+**IMPORTANT NOTICE:**
+...
+This is fork of didstopia rust-server repository. So far it is only updated to Ubuntu 20.04 with nodejs12 with plan
+  to update nodejs to newer version and to Ubuntu 24.04.
+...
 ---
 
 **TUTORIAL**: We've written a guide on how to use this image [here](http://rust.didscraft.com/rust-server-on-linux-using-docker/).
